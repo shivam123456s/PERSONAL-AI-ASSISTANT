@@ -530,7 +530,7 @@ if __name__=="__main__":
    
 
 # import requests
-# weather_api_key = '5908725719c50070ff5650fac736b5ca'          
+
 # def get_weather(city):
 #     base_url = "http://api.openweathermap.org/data/2.5/weather"
 #     params = {
